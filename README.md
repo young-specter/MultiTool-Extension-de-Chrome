@@ -7,7 +7,7 @@ MultiTool es una extensión todo-en-uno diseñada para mejorar tu productividad,
 
 ## ✨ Funcionalidades principales
 
-### Funciones Básicas (Código Abierto)
+### Funciones Básicas 
 - 🌐 **Traductor Inteligente** — Traducción multilenguaje con selección de idiomas y ventana emergente contextual.
 - 🧮 **Calculadora Avanzada** — Soporte para operaciones complejas gracias a Math.js.
 - 🌑 **Modo Oscuro Universal** — Activa/desactiva el modo oscuro en cualquier sitio web.
