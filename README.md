@@ -7,15 +7,19 @@ MultiTool es una extensión todo-en-uno diseñada para mejorar tu productividad,
 
 ## ✨ Funcionalidades principales
 
-### Funciones Básicas 
 - 🌐 **Traductor Inteligente** — Traducción multilenguaje con selección de idiomas y ventana emergente contextual.
-- 🧮 **Calculadora Avanzada** — Soporte para operaciones complejas gracias a Math.js.
-- 🌑 **Modo Oscuro Universal** — Activa/desactiva el modo oscuro en cualquier sitio web.
-- 📋 **Gestor de Portapapeles** — Historial de texto copiado accesible desde el popup.
-- 📌 **Guardado de Pestañas** — Guarda y accede a tus pestañas favoritas con un solo clic.
-- 🔐 **Generador de Contraseñas** — Crea contraseñas seguras de forma local.
-- 🔍 **Verificador de Sitios Web** — Detecta al instante si una web está caída o no.
-- ⚙️ **Panel de Ajustes** — Personaliza idiomas, comportamiento y preferencias generales.
+- 🧮 **Calculadora** — Calculadora integrada.
+- 📋 **Gestor de Portapapeles** — Guarda y reutiliza el texto que copias desde el navegador.
+- 📌 **Guardado de Pestañas** — Guarda las pestañas actuales y accede a ellas fácilmente después.
+- 🌑 **Modo Oscuro Universal** — Activa o desactiva el modo oscuro en cualquier sitio web con un solo clic.
+- 🔑 **Comprobador de Contraseñas** — Evalúa la fortaleza de tus contraseñas con retroalimentación visual.
+- 🔐 **Generador de Contraseñas** — Crea contraseñas seguras y aleatorias de forma local.
+- 🔍 **Estado de Sitio Web** — Verifica si un sitio web está en línea o fuera de servicio.
+- 🛡️ **Inspector de Seguridad** — Analiza scripts y redirecciones potencialmente peligrosas.
+- 📈 **Monitor de Pestañas** — Visualiza todas tus pestañas abiertas y mejora tu productividad.
+- 🛑 **Bloqueador de Redirecciones** — Evita redirecciones sospechosas o no deseadas mientras navegas.
+- 🔎 **Escáner de Scripts** — Detecta scripts peligrosos o inusuales en la página actual.
+- ⚙️ **Panel de Ajustes** — Personaliza idiomas, preferencias generales y el comportamiento de la extensión.
 
 
 ---
