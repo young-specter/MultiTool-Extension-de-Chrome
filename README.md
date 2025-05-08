@@ -7,6 +7,7 @@ MultiTool es una extensión todo-en-uno diseñada para mejorar tu productividad,
 
 ## ✨ Funcionalidades principales
 
+### Funciones Básicas (Código Abierto)
 - 🌐 **Traductor Inteligente** — Traducción multilenguaje con selección de idiomas y ventana emergente contextual.
 - 🧮 **Calculadora Avanzada** — Soporte para operaciones complejas gracias a Math.js.
 - 🌑 **Modo Oscuro Universal** — Activa/desactiva el modo oscuro en cualquier sitio web.
@@ -16,10 +17,51 @@ MultiTool es una extensión todo-en-uno diseñada para mejorar tu productividad,
 - 🔍 **Verificador de Sitios Web** — Detecta al instante si una web está caída o no.
 - ⚙️ **Panel de Ajustes** — Personaliza idiomas, comportamiento y preferencias generales.
 
+
 ---
 
 ## 📦 Instalación
 
 ### Desde Chrome Web Store *(Próximamente)*
 > Estará disponible públicamente en la tienda de extensiones de Chrome.
+
+
+## 🎯 Público objetivo
+Personas que desean ahorrar tiempo y minimizar pasos repetitivos.
+
+Profesionales digitales, programadores, estudiantes y usuarios multitarea.
+
+Cualquiera que necesite múltiples herramientas sin saturar su navegador.
+
+## 🔒 Privacidad y rendimiento
+Sin rastreadores.
+
+Sin conexión a servidores externos.
+
+No se recopilan ni almacenan datos del usuario.
+
+El código es limpio, modular y de alto rendimiento.
+
+## 💬 Soporte
+Si necesitas ayuda con la extensión, tienes alguna duda o encuentras un fallo, puedes:
+
+
+Envíanos un correo a soporte@youngspecter.es
+
+Únete a nuestra comunidad en https://discord.gg/4GQGqDJczm
+
+## 🤝 Contribuciones
+Este proyecto es código abierto y estamos encantados de que puedas contribuir. Si tienes sugerencias, correcciones o mejoras, por favor abre un pull request. Si eres nuevo en GitHub, puedes revisar nuestra guía de contribución en el archivo CONTRIBUTING.md.
+
+## 💡 Licencia
+Este proyecto está bajo la MIT License para las funciones básicas. Las funcionalidades premium están sujetas a licencia comercial según los términos establecidos en [este enlace a los términos de servicio].
+
+## ✨ Agradecimientos
+Gracias a todos los que han contribuido, reportado problemas y proporcionado sugerencias para mejorar MultiTool. Tu apoyo es crucial para seguir haciendo que esta extensión sea mejor para todos.
+
+
+
+
+
+
 
