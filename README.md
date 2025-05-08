@@ -50,11 +50,8 @@ Envíanos un correo a soporte@youngspecter.es
 
 Únete a nuestra comunidad en https://discord.gg/4GQGqDJczm
 
-## 🤝 Contribuciones
-Este proyecto es código abierto y estamos encantados de que puedas contribuir. Si tienes sugerencias, correcciones o mejoras, por favor abre un pull request. Si eres nuevo en GitHub, puedes revisar nuestra guía de contribución en el archivo CONTRIBUTING.md.
-
 ## 💡 Licencia
-Este proyecto está bajo la MIT License para las funciones básicas. Las funcionalidades premium están sujetas a licencia comercial según los términos establecidos en [este enlace a los términos de servicio].
+Este proyecto está bajo la MIT License para las funciones básicas. Las funcionalidades premium están sujetas a licencia comercial según los términos establecidos en https://youngspecter.es/politicasycondiciones.html.
 
 ## ✨ Agradecimientos
 Gracias a todos los que han contribuido, reportado problemas y proporcionado sugerencias para mejorar MultiTool. Tu apoyo es crucial para seguir haciendo que esta extensión sea mejor para todos.
